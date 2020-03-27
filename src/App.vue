@@ -9,12 +9,11 @@
 </template>
 
 <script>
-import Navbar from './views/layouts/Navbar'
+
 export default {
   name: 'App',
-  components: {
-    Navbar
-  },
+ 
+
   data : function(){
     return {
       status_login: ''
